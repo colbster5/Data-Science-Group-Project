@@ -20,7 +20,7 @@ This was a group project I (Colby Porter), Kenta Yoshii, Keigo Hachisuka, and Gr
   - [Tech Report](analysis_deliverable/tech_report/README.md)
 
 - #### Visualizations ####
-  - [Visualizations](analysis_deliverable/visualizations)
+  - [Visualizations](analysis_deliverable/vizualizations)
 
 
 ## Final Deliverable ##
