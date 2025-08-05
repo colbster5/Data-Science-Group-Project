@@ -33,7 +33,6 @@ This is the final project's master repo! Please use the following shortcut links
   - [Abstract](final_deliverable/abstract/abstract.pdf)
 
 - ### Final Presentation ###
-  - [recording](https://drive.google.com/file/d/1K3-Cy-MBJhvEVFt4opxBBsw7lN68xvX-/view?usp=sharing)
   - [slides](final_deliverable/poster/poster.pdf)
 
 - ### Visualizations ###
