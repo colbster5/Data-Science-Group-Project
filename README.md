@@ -11,7 +11,7 @@ This was a group project I (Colby Porter), Kenta Yoshii, Keigo Hachisuka, and Gr
 
 - #### Reports ####
   - [Tech Report](data_deliverable/reports/tech_report/README.md)
-  - [Socio-historical Context and Impact Report](data_deliverable/reports/social_impact_report/README.md)
+  - [Socio-historical Context and Impact Report](final_deliverable/socio_historical_report/README.md)
 
 
 ## Analysis Deliverable ##
