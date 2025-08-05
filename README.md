@@ -1,8 +1,8 @@
 # Final Project
 This is the final project's master repo! Please use the following shortcut links to access the different components of the project.
 
-## Description
-This was a group project I (Colby Porter), Kenta Yoshii, Keigo Hachisuka, and Grace Chen completed for CSCI1951A: Data Science, a course in Brown University's computer science department. Our task was to complete a data science project on a topic of our choosing and showcase our findings in the components linked in this ReadMe. The process of working on this project was highly collaborative. The overall project design and major decision-making was done as a group. 
+## Description (For Job Applications/Outside Viewers)
+This was a group project I (Colby Porter), Kenta Yoshii, Keigo Hachisuka, and Grace Chen completed for CSCI1951A: Data Science, a course in Brown University's computer science department. Our task was to complete a data science project on a topic of our choosing and showcase our findings in the components linked below in this ReadMe. The process of working on this project was highly collaborative. The overall project design and major decision-making was done as a group. 
 
 ## Data Deliverable ##
 
